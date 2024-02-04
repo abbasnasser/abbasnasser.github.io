@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe4d2f10.css",
-    "main.js": "/static/js/main.471e8aa2.js",
+    "main.css": "/static/css/main.470f191b.css",
+    "main.js": "/static/js/main.34c05287.js",
     "static/js/592.6d7de513.chunk.js": "/static/js/592.6d7de513.chunk.js",
     "static/media/abbas.png": "/static/media/abbas.a8ce1c2ddae1d2c3b54a.png",
     "static/media/IMFellGreatPrimerSC-Regular.ttf": "/static/media/IMFellGreatPrimerSC-Regular.6025533765a56db98b56.ttf",
+    "static/media/abbas3.jpg": "/static/media/abbas3.776d6454f1294863805d.jpg",
+    "static/media/abbas2.jpg": "/static/media/abbas2.1c945239a33394b01850.jpg",
+    "static/media/bp.jpg": "/static/media/bp.08f55662539db19331f4.jpg",
     "static/media/IndieFlower-Regular.ttf": "/static/media/IndieFlower-Regular.599d26584b9afc1d20b1.ttf",
     "static/media/jsMath-cmti10.ttf": "/static/media/jsMath-cmti10.78b51b89f15b10f81d1c.ttf",
     "static/media/google.svg": "/static/media/google.e65bc64569b52347ff2f73db4c5626f2.svg",
@@ -12,14 +15,14 @@
     "static/media/github.svg": "/static/media/github.4becba9bd77b1b88b045fee50318e72a.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.5aff47212315739e132ef8ca0ea67952.svg",
     "static/media/circle.svg": "/static/media/circle.e7a7f67afb9a9b5dc078c1aa4612ffd6.svg",
-    "static/media/mail.svg": "/static/media/mail.75e5525d9d9b76c0db5399143f21e4ab.svg",
     "index.html": "/index.html",
-    "main.fe4d2f10.css.map": "/static/css/main.fe4d2f10.css.map",
-    "main.471e8aa2.js.map": "/static/js/main.471e8aa2.js.map",
+    "static/media/mail.svg": "/static/media/mail.75e5525d9d9b76c0db5399143f21e4ab.svg",
+    "main.470f191b.css.map": "/static/css/main.470f191b.css.map",
+    "main.34c05287.js.map": "/static/js/main.34c05287.js.map",
     "592.6d7de513.chunk.js.map": "/static/js/592.6d7de513.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe4d2f10.css",
-    "static/js/main.471e8aa2.js"
+    "static/css/main.470f191b.css",
+    "static/js/main.34c05287.js"
   ]
 }
